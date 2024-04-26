@@ -13,3 +13,13 @@ This is my first local change to the repo
 **Bold Text** or __Bold Text__
 
 *Italics Text* or _Italics Text_
+
+- Item 1
+- Item 2
+- Item 3
+    - Subitem 1
+    - Subiyem 2
+1. First Item
+1. second 
+1. third 
+
